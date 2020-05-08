@@ -1,0 +1,170 @@
+*{
+margin: 0;
+padding: 0;
+font-family:'나눔 고딕', 'NanumGothic', '맑은 고딕', Gothic;
+}
+
+a{
+text-decoration:none;
+}
+
+li{
+list-style:none;
+}
+
+body{
+width: 960px;
+margin: auto;
+background: #E6E6E6;
+}
+
+div#page-wrapper{
+background: #FFFFFF;
+margin-top: 40px;
+margin-bottom: 10px;
+margin-right: 0px;
+margin-left: 20px;
+padding-top: 10px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px;
+border-radius: 5px;
+box-shadow: 0px 2px 6px rgba(100, 100, 100, 0.3)
+}
+
+header#main-header{
+padding-top: 40px;
+padding-right: 50px;
+padding-bottom: 40px;
+padding-left: 50px;
+}
+
+h1.master-title{
+word-spacing: 30px;
+color: #181818;
+}
+
+h2.master-description{
+word-spacing: 15px;
+color: #383838;
+font-height: 500;
+
+nav#main-navigation{
+border-top: 1px solid #C8C8C8;
+border-bottom: 1px solid #C8C8C8;
+margin-top: 0px;
+margin-righr: 0px;
+margin-bottom: 20px;
+margin-left: 0px;
+height: 40px;
+}
+
+li.outer-menu-item{
+left: auto;
+}
+
+a.menu-title{
+display:block;
+height: 30px;
+text-align: center;
+padding-top: 5px;
+padding-right: 20px;
+padding-bottom: 5px;
+padding-left: 20px;
+color: #000000;
+}
+
+a.menu-title:hover{
+background: #000000
+color: #FFFFFF;
+??
+}
+
+div#content{
+overflow: hidden;
+}
+
+section#main-section{
+left: auto;
+width: 710px;
+}
+
+aside#main-aside{
+right: 0;
+width: 200px;
+}
+
+article{
+padding-top: 0px;
+padding-right: 10px;
+padding-bottom: 20px;
+padding-left: 10px;
+border-bottom: 1px solid #C8C8C8;
+}
+
+div.article-header{
+padding-top: 20px;
+padding-right: 0px;
+padding-bottom: 20px;
+padding-left: 0px;
+}
+
+h1.article-title{
+word-spacing: 25px;
+padding-top: 0px;
+padding-bottom: 10px;
+padding-right: 0px;
+padding-left: 0px
+font-weight: 500;
+}
+
+p.article-data{
+word-spacing: 13px;
+}
+
+div.article-body{
+word-spacing: 14px;
+}
+
+.sm{
+width: 280px;
+height: 280px;
+}
+
+.ds{
+width: 430px;
+height: 280px;
+}
+
+div.aside-list{
+padding-top: 10px;
+padding-right: 0px;
+padding-bottom: 30px;
+padding-left: 0px;
+}
+
+h3{
+word-spacing: 15px;
+font-weight: 600;
+}
+
+a{
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 8px;
+word-spacing: 13px;
+color: #6C6C6C;
+}
+
+footer{
+word-spacing: 10px;
+color: #666666;
+}
+
+
+
+
+
+
+
